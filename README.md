@@ -1,4 +1,4 @@
-# medical-research-redunancy
+# medical-research-redundancy
 This project evaluates cognitive innovation and semantic redundancy in medical research abstracts across two temporal periods using linear algebra—specifically vector dot products and Cosine Similarity.
 
 Environment & Tech Stack
