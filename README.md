@@ -3,3 +3,4 @@ This project evaluates cognitive innovation and semantic redundancy in medical r
 
 Environment & Tech Stack
 Developed in Jupyter Notebook (Python 3.12), utilizing pandas, numpy, and scikit-learn for text vectorization and Natural Language Processing (NLP).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22021766.svg)](https://doi.org/10.5281/zenodo.22021766)
